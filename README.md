@@ -1,15 +1,11 @@
-# Auto Terminals 
-_A QOL module for hypixel skyblock F7 and M7._ 
+# Auto Dojo 
+_A QOL module for hypixel skyblock crimson isle._ 
 
 ## Features 
-- Auto completes terminals
-- Invwalk
-- Auto Melody
-- Melody Skip
-- Melody invwalk
-- Custom delays
-- Invwalk gui
-- HClip
+- Auto black belt
+- Auto mode for all trials
+- Legit mode for all trials
+- Auto modes are spec safe, so they never ban
 
 ## Installation 
 Download chatriggers (if not already installed) from [here](https://chattriggers.com/) 
@@ -20,4 +16,4 @@ Download chatriggers (if not already installed) from [here](https://chattriggers
 3. Restart Minecraft or run `/ct load` in-game.
 
 ## Usage
-_To open the GUI, the command is /autoterms!_ --- Enjoy!
+_To open the GUI, the command is /dojo!_ --- Enjoy!
